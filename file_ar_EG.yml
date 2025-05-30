@@ -1,9 +1,8 @@
 # Sample Configuration File
----
 company: spacelift
 domain:
-  - devops
-  - devsecops
+- devops
+- devsecops
 tutorial:
   - yaml:
       name: "YAML Ain't Markup Language"
