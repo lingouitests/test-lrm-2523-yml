@@ -1,9 +1,0 @@
-# Sample Configuration File
-company: spacelift
-domain:
-- #LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key=30534_4895&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
-  devops
-- #LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key=30535_4895&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
-  devsecops
-author: omkarbirade
-published: true
