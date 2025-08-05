@@ -1,6 +1,7 @@
 # Sample Configuration File
 ---
 company: &nbsp; spacelift
+comp: &nbsp;space
 author: omkarbirade&quot;
 published: true
 comment: test &lt;
