@@ -1,8 +1,5 @@
 # Sample Configuration File
 ---
 company: spacelift
-domain:
-  - devops
-  - devsecops
 author: omkarbirade
 published: true
