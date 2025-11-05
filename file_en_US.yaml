@@ -1,5 +1,5 @@
 # Sample Configuration File
-company: \&nbsp; spacelift
+ company: \&nbsp; spacelift
 comp: \&nbsp;space![CDATA[<>]]
 author: omkarbirade&quot;
 addition: ttt![CDATA[<>&apos;]]ttt
