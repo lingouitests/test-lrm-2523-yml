@@ -1,3 +1,6 @@
 ---
 comp: "\\¡espacio! [CDATA[<>]]"
+# Sample Configuration File
+---
+company: "\\ Spacelift"
 author: "omkarbirade&quot;"
